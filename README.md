@@ -41,5 +41,6 @@ The dashboard highlights the following primary KPIs:
 
 ---
 
-**Author:** 
-Syed Ateeb Shah
+## Author
+
+**Syed Ateeb Shah**
